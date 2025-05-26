@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/780e0d73-1a5f-4bf9-821b-6488eb6c0642)![image](https://github.com/user-attachments/assets/85a37b36-32ae-4d83-9979-45afea3cb259)![image](https://github.com/user-attachments/assets/9786057b-d9ca-4cfd-ab81-8ed467d64867)# Practice_3
+# Practice_3
 
 https://github.com/ustoopia/Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash
-![image](https://github.com/user-attachments/assets/cc1fcf2f-7b05-4f8c-8741-1a760096dced)
 
 C:/livestream/ 폴더를 생성 후 그 안에 압축 해제
 ![image](https://github.com/user-attachments/assets/e463e501-f3bb-40f0-9cf9-017ac3d81ae4)
