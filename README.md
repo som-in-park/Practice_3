@@ -12,6 +12,7 @@ C:/livestream/ 폴더를 생성 후 그 안에 압축 해제
 ## Mac nginx 설치 가이드
 
 https://velog.io/@diddbstjr55/Mac-Nginx-Media-Sever
+https://mygoodplace.tistory.com/13
 
 ## 영상 데이터 다운로드
 LOSC가 업로드한 360도 축구 영상
