@@ -11,7 +11,13 @@ C:/livestream/ 폴더를 생성 후 그 안에 압축 해제
 
 ## Mac nginx 설치 가이드
 
+Homebrew 설치
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 https://velog.io/@diddbstjr55/Mac-Nginx-Media-Sever
+
 https://mygoodplace.tistory.com/13
 
 ## 영상 데이터 다운로드
@@ -23,7 +29,9 @@ https://www.dropbox.com/s/l85xv6ecp1i993c/1-8-Football.mp4?dl=0
 FFMPEG 파일 다운로드
 https://github.com/GyanD/codexffmpeg/releases/tag/2025-05-21-git-4099d53759
 
-위 페이지에서
+위 페이지에서 zip 파일 다운 후 압축 해제
+
+압축 해제한 폴더에서 bin 폴더로 이동 -> 주소 복사 -> 환경변수 설정 
 
 ## 사용 코드
 @@ 영상을 다운로드 받은 폴더에서 cmd 실행 @@
